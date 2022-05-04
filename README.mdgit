@@ -1,0 +1,1 @@
+"# Java-Exercices"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/Camlo01/Java-Exercices.gitgit push -u origin main
